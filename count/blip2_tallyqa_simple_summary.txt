@@ -1,0 +1,64 @@
+
+==============================================
+                   RESULTS                    
+==============================================
+Questions asked  : 22991
+Images covered   : 18411
+Correct          : 10243
+Accuracy         : 44.55%
+Mean abs. error  : 0.99  (over 22403 stated counts)
+Out of dictionary: 588  (2.56%, never correct)
+Mean confidence  : 0.113
+Elapsed          : 12.3 min (31.0 q/s)
+
+What the model predicted:
+                  1 :   7915  (34.4%)
+                  0 :   7021  (30.5%)
+                  2 :   5825  (25.3%)
+                  3 :   1277  (5.6%)
+  out of dictionary :    588  (2.6%)
+                  5 :    152  (0.7%)
+                  4 :     86  (0.4%)
+                  6 :     76  (0.3%)
+                  7 :     31  (0.1%)
+                100 :      4  (0.0%)
+                  9 :      4  (0.0%)
+                 20 :      4  (0.0%)
+                  8 :      3  (0.0%)
+                 12 :      2  (0.0%)
+                 30 :      1  (0.0%)
+                738 :      1  (0.0%)
+                 10 :      1  (0.0%)
+
+Most common out-of-dictionary answers:
+     308  (52.4% of them)  'A lot'
+     138  (23.5% of them)  'All of them'
+      22  ( 3.7% of them)  'Many'
+       9  ( 1.5% of them)  'Too many'
+       8  ( 1.4% of them)  'There are many birds in the world'
+       6  ( 1.0% of them)  'A lot of people'
+       5  ( 0.9% of them)  'There are many'
+       4  ( 0.7% of them)  'There are many animals in the world'
+       4  ( 0.7% of them)  'There are many birds'
+       3  ( 0.5% of them)  'There are many surfers in the ocean'
+
+Accuracy by true count:
+  count  0 :   440/637   (69.1%)
+  count  1 :  6102/12308 (49.6%)
+  count  2 :  2993/5636  (53.1%)
+  count  3 :   599/2034  (29.4%)
+  count  4 :    44/1101  (4.0%)
+  count  5 :    43/435   (9.9%)
+  count  6 :    14/319   (4.4%)
+  count  7 :     6/152   (3.9%)
+  count  8 :     0/145   (0.0%)
+  count  9 :     2/84    (2.4%)
+  count 10 :     0/48    (0.0%)
+  count 11 :     0/30    (0.0%)
+  count 12 :     0/33    (0.0%)
+  count 13 :     0/13    (0.0%)
+  count 14 :     0/9     (0.0%)
+  count 15 :     0/7     (0.0%)
+
+Accuracy by question type:
+   simple :  10243/22991  ( 44.6%)  conf 0.113, out of dictionary 2.6%

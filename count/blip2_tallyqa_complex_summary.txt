@@ -1,0 +1,61 @@
+
+==============================================
+                   RESULTS                    
+==============================================
+Questions asked  : 15598
+Images covered   : 14051
+Correct          : 4428
+Accuracy         : 28.39%
+Mean abs. error  : 1.21  (over 14637 stated counts)
+Out of dictionary: 961  (6.16%, never correct)
+Mean confidence  : 0.107
+Elapsed          : 8.5 min (30.5 q/s)
+
+What the model predicted:
+                  0 :  10016  (64.2%)
+                  1 :   1904  (12.2%)
+                  2 :   1903  (12.2%)
+  out of dictionary :    961  (6.2%)
+                  3 :    591  (3.8%)
+                  5 :     70  (0.4%)
+                  4 :     67  (0.4%)
+                  6 :     62  (0.4%)
+                  7 :     11  (0.1%)
+                  9 :      5  (0.0%)
+                  8 :      4  (0.0%)
+                 24 :      2  (0.0%)
+                 12 :      1  (0.0%)
+                 27 :      1  (0.0%)
+
+Most common out-of-dictionary answers:
+     524  (54.5% of them)  'A lot'
+     326  (33.9% of them)  'All of them'
+      47  ( 4.9% of them)  'Many'
+       5  ( 0.5% of them)  'Never'
+       4  ( 0.4% of them)  'Not many'
+       2  ( 0.2% of them)  'A lot of people'
+       2  ( 0.2% of them)  'There are more than you think'
+       2  ( 0.2% of them)  'all of them'
+       1  ( 0.1% of them)  'The answer is: The number of planets visible in'
+       1  ( 0.1% of them)  'The sky is full of birds'
+
+Accuracy by true count:
+  count  0 :  3052/4335  (70.4%)
+  count  1 :   927/6853  (13.5%)
+  count  2 :   372/2479  (15.0%)
+  count  3 :    59/901   (6.5%)
+  count  4 :     9/453   (2.0%)
+  count  5 :     4/195   (2.1%)
+  count  6 :     4/133   (3.0%)
+  count  7 :     0/70    (0.0%)
+  count  8 :     1/59    (1.7%)
+  count  9 :     0/31    (0.0%)
+  count 10 :     0/33    (0.0%)
+  count 11 :     0/12    (0.0%)
+  count 12 :     0/25    (0.0%)
+  count 13 :     0/7     (0.0%)
+  count 14 :     0/6     (0.0%)
+  count 15 :     0/6     (0.0%)
+
+Accuracy by question type:
+  complex :   4428/15598  ( 28.4%)  conf 0.107, out of dictionary 6.2%
